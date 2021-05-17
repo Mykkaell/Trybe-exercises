@@ -1,0 +1,61 @@
+ol li {
+    background-color: #ffff00;
+}
+
+ol li:nth-child(even) {
+    color: #008000
+}
+
+.numPrimo {
+    text-transform: uppercase;
+}
+
+.headers {
+    color: #ff0000
+}
+
+.headers em{
+    font-size: 40px;
+    border: 1px #000 solid;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+.hardskill :nth-child(-n+3) {
+    color: #0000ff;
+}
+
+.java {
+    background-color: #ffc0cb;
+}
+
+.starkOverflow :hover {
+    color: #ffa500;
+    font-weight: bold;
+}
+
+.W3Schools :hover {
+    color: #008000;
+    font-weight: bold;
+}
+
+.MDN :hover {
+    color: #000;
+    font-weight: bold;
+}
+
+.DevDocs :hover {
+    color: #ffff00;
+    font-weight: bold;
+}
+
+.Trybe :hover {
+    color: #008000;
+    font-weight: bold;
+}
